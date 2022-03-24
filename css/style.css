@@ -4,11 +4,11 @@ body {
 }
 
 .navbar {
-    background-color: #298a08;
+    background-color: #0092dc;
 }
 
 .quem-somos {
-    background-color: #8abcf6;
+    background-color: #009ce8;
     color: white;
 }
 
@@ -18,5 +18,11 @@ body {
 }
 
 .parceiros {
-    background-color: #58fafa;
+    background-color: #0da7f3;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
